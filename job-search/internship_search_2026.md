@@ -29,7 +29,7 @@
 | 2 | **Mercari — Data Scientist** | 東京 | 🎯🌐 | 要 A/B test、quasi-exp、**synthetic control**、SRM | [職缺](https://careers.mercari.com/en/jobs/) |
 | 3 | **Rakuten — DS/Researcher 新卒 + 實習** | 東京 | 🟢🌐 | 官方語言英文；Fintech 用 causal | [新卒](https://global.rakuten.com/corp/careers/graduates/) |
 | 4 | **Agoda — DS / Experimentation** | 曼谷 | 🎯🌐 | 有專門實驗組；可 relocation | [careers](https://careersatagoda.com/) |
-| 5 | **Appier / KKBOX — DS/ML Intern** | 台灣 | 🟢 | 現在就能投、練手感 | [Appier](https://www.appier.com/en/careers) · [KKBOX](https://www.kkbox.com/intl/en/careers) |
+| 5 | **Appier / KKBOX — DS/ML Intern** | 台灣 | 🟢 | 現在就能投、練手感 | [Appier](https://www.appier.com/en/about/career/) · [KKBOX](https://careers.kkbox.com/) |
 | 6 | **Grab — Economist (Data Scientist)** | 曼谷 | 🎯💰🌐 | 標題完美對口（偏 PhD，當目標） | [職缺](https://www.grab.careers/en/jobs/) |
 
 > 💡 你的 **`causal-ml-policy-targeting`** 專案（uplift/policy targeting）正是這些職缺天天在做的事 → **push 上 GitHub = 最強敲門磚**。
@@ -40,12 +40,12 @@
 
 ### 🇹🇼 台灣（現在就投）
 **平台**
-- [104 —「資料科學 實習」](https://www.104.com.tw/jobs/search/?keyword=資料科學%20實習)
+- [104 —「資料科學」職缺](https://www.104.com.tw/jobs/search/?ro=0&keyword=%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8)
 - [CakeResume 實習專區](https://www.cake.me/campaigns/internship/jobs?locale=zh-TW)
 - [Yourator（新創為主）](https://www.yourator.co/jobs) ｜ [meet.jobs](https://meet.jobs/)
 
 **公司（對 econ 友善）** — 🟢
-- [Appier（AI SaaS）](https://www.appier.com/en/careers) ｜ [KKBOX（有 ML 實習）](https://www.kkbox.com/intl/en/careers)
+- [Appier（AI SaaS）](https://www.appier.com/en/about/career/) ｜ [KKBOX（有 ML 實習）](https://careers.kkbox.com/)
 - [Micron 台中 — DS Intern](https://careers.micron.com/) ｜ [ASUS AICS 實習](https://aics.asus.com/studentprograms-en/internship-taiwan/)
 - Dcard、Trend Micro、TSMC、Taiwan AI Labs；金融量化：國泰 / 富邦 / 玉山 / 中信（搜「資料科學 實習 / quant」）
 
@@ -69,7 +69,7 @@
 
 ### 🇹🇭 泰國 / 東南亞（因果 & experimentation 重鎮）
 - 🎯🌐 **Agoda**（Booking 旗下，曼谷，可 relocation）：[careers](https://careersatagoda.com/) ｜ [DS 團隊介紹](https://careersatagoda.com/blog/meet-data-science-team-agoda/)
-- 🎯💰🌐 **Grab — Economist (Data Scientist)**：[Economist](https://www.grab.careers/en/jobs/744000096990485/economist-data-scientist/) · [Senior](https://www.grab.careers/en/jobs/744000096991676/senior-economist-data-scientist/) · [全部搜 economist](https://www.grab.careers/en/jobs/)
+- 🎯💰🌐 **Grab — Economist (Data Scientist)**：[Grab 職缺頁](https://www.grab.careers/en/jobs/)（在搜尋框打 **economist** 或 **data scientist**；個別職缺網址會過期，用搜尋才穩）
 
 ### 🇭🇰 香港（量化最吃 econometrics）
 - 💰 **Point72 Academy**（全主修皆收，重量化）：[學生早職](https://point72.com/students-early-career/) — ⚠️ 2026 暑期已截止，訂電子報等下輪
@@ -103,8 +103,8 @@
 | Agoda | DS / Experimentation | TH | 🎯 | [link](https://careersatagoda.com/) | 查 | ☐ | 專門實驗組 |
 | Shopee/Sea | DS（實驗框架） | SG | 🎯 | [link](https://careers.shopee.sg/tech) | 查 | ☐ | |
 | Grab | Economist (DS) | TH | 🎯💰 | [link](https://www.grab.careers/en/jobs/) | 查 | ☐ | 標題對口但偏 PhD |
-| Appier | DS Intern | TW | 🟢 | [link](https://www.appier.com/en/careers) | 查 | ☐ | 現在可投 |
-| KKBOX | ML Intern | TW | 🟢 | [link](https://www.kkbox.com/intl/en/careers) | 查 | ☐ | 現在可投 |
+| Appier | DS Intern | TW | 🟢 | [link](https://www.appier.com/en/about/career/) | 查 | ☐ | 現在可投 |
+| KKBOX | ML Intern | TW | 🟢 | [link](https://careers.kkbox.com/) | 查 | ☐ | 現在可投 |
 | LY Corp | AI/DS 新卒 | JP | 🌐 | [link](https://www.lycorp.co.jp/en/recruit/career/job-categories/) | 查 | ☐ | 有日文課 |
 | Coupang | DS | KR | 🌐 | [link](https://www.coupang.jobs/en/jobs/) | 查 | ☐ | 可辦簽證 |
 
