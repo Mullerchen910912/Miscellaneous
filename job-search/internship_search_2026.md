@@ -19,6 +19,8 @@
 
 **標籤：** 🎯 因果/實驗型 ｜ 💰 Economist/Quant（偏 PhD）｜ 🟢 碩士可投實習 ｜ 🌐 英文可運作
 
+> 📎 連結說明：Glassdoor / Citadel / Agoda / Coupang / Jobstreet / Wellfound 等站會擋自動程式，但你**在瀏覽器點是正常**的。個別「職缺」深連結（TikTok、Grab 等）會過期——點不到就到該公司 careers 首頁搜職稱。（連結已於 2026-07-06 全面驗證修正）
+
 ---
 
 ## ⭐ 精選：最對口、現在就能看（跨地區 shortlist）
@@ -73,7 +75,7 @@
 
 ### 🇭🇰 香港（量化最吃 econometrics）
 - 💰 **Point72 Academy**（全主修皆收，重量化）：[學生早職](https://point72.com/students-early-career/) — ⚠️ 2026 暑期已截止，訂電子報等下輪
-- 💰 **Citadel / Citadel Securities**：[Citadel 學生](https://www.citadel.com/careers/students/) · [Securities 學生](https://www.citadelsecurities.com/careers/students/) ｜ 另 Jane Street HK、Optiver HK、HSBC
+- 💰 **Citadel / Citadel Securities**：[Citadel 實習](https://www.citadel.com/careers/internships/) · [Securities 實習](https://www.citadelsecurities.com/careers/internships/) ｜ 另 Jane Street HK、Optiver HK、HSBC
 - 平台：[LinkedIn HK](https://hk.linkedin.com/jobs) · [Glassdoor HK](https://www.glassdoor.com.hk/Job/hong-kong-data-science-intern-jobs-SRCH_IL.0,9_IN106_KO10,29.htm)
 
 ### 🇰🇷 韓國（英文工程文化）
